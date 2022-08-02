@@ -1,0 +1,38 @@
+.bg{
+    background-color:#E9ECEF
+}
+.nav{
+    color: rgba(246, 245, 247, 0.801);
+    background-color: rgba(182, 182, 182, 0.253);
+    font: 20px/1 'futura-m';
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: right;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    display: block;
+    padding: 10px;
+    margin: 5px 2.5px 5px 2.5px;
+    text-align: center;
+}
+ .marka{
+
+    color: rgb(253, 252, 253);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: 900;
+    margin: 5px 0 2px 5px;
+ }
+ .nbg{
+     background-color: rgb(92, 90, 88);
+ }
+ .padding{
+     padding: 20px 60px; /* hazır kod üzerine yeni özellik */
+     color: #E9ECEF;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font: 20px/1 'futura-m';
+ }
+.padding2{
+    padding: 10px 20px;
+}
